@@ -1,0 +1,51 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+/* Custom Slider Arrows */
+.custom-slider .slick-prev,
+.custom-slider .slick-next {
+  width: 40px;
+  height: 40px;
+  z-index: 1;
+  background-color: #1f2937; /* Tailwind's gray-800 */
+  border-radius: 9999px; /* fully rounded */
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  transition: background 0.3s;
+}
+
+.custom-slider .slick-prev:hover,
+.custom-slider .slick-next:hover {
+  background-color: #3b82f6; /* Tailwind's blue-500 */
+}
+
+.custom-slider .slick-prev:before,
+.custom-slider .slick-next:before {
+  font-size: 20px;
+  color: #ffffff;
+}
+
+/* Positioning Arrows */
+.custom-slider .slick-prev {
+  left: -50px;
+}
+.custom-slider .slick-next {
+  right: -50px;
+}
+
+/* Custom Dots */
+.custom-slider .slick-dots {
+  bottom: -30px;
+}
+
+.custom-slider .slick-dots li button:before {
+  font-size: 12px;
+  color: #9ca3af; /* Tailwind's gray-400 */
+  opacity: 1;
+}
+
+.custom-slider .slick-dots li.slick-active button:before {
+  color: #3b82f6; /* Tailwind's blue-500 */
+}

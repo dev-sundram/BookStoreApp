@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "A great book about stories",
+    "price": 19.99,
+    "category": "free",
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGJvb2t8ZW58MHx8fHwxNjg5NTY1NzA3&ixlib=rb-4.0.3&q=80&w=400"
+  },
+  {
+    "id": 2,
+    "name": "Adventure Book",
+    "title": "An exciting adventure story",
+    "price": 25.99,
+    "category": "free",
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDJ8fGJvb2t8ZW58MHx8fHwxNjg5NTY1NzA3&ixlib=rb-4.0.3&q=80&w=400"
+  },
+  {
+    "id": 3,
+    "name": "Science Book",
+    "title": "Learn about science",
+    "price": 15.99,
+    "category": "free",
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDN8fGJvb2t8ZW58MHx8fHwxNjg5NTY1NzA3&ixlib=rb-4.0.3&q=80&w=400"
+  },
+  {
+    "id": 4,
+    "name": "Science Book",
+    "title": "Learn about science",
+    "price": 15.99,
+    "category": "free",
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDN8fGJvb2t8ZW58MHx8fHwxNjg5NTY1NzA3&ixlib=rb-4.0.3&q=80&w=400"
+  },
+  {
+    "id":5 ,
+    "name": "Science Book",
+    "title": "Learn about science",
+    "price": 15.99,
+    "category": "Entertainment",
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDN8fGJvb2t8ZW58MHx8fHwxNjg5NTY1NzA3&ixlib=rb-4.0.3&q=80&w=400"
+  },
+  {
+    "id":6,
+    "name": "Science Book",
+    "title": "Learn about science",
+    "price": 15.99,
+    "category": "free",
+    "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDN8fGJvb2t8ZW58MHx8fHwxNjg5NTY1NzA3&ixlib=rb-4.0.3&q=80&w=400"
+  }
+]
